@@ -1,3 +1,1 @@
-v.Aarthi ,20,90,BCA
-priya,22,90,BCA
-sneha,20,70,BCA
+
